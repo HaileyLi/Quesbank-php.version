@@ -1,1 +1,2 @@
-# Quesbank-php.version
+# Quesbank
+Question bank for schools
